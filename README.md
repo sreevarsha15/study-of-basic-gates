@@ -78,6 +78,6 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 <img width="1619" height="910" alt="image" src="https://github.com/user-attachments/assets/c0e48dde-800a-46da-a803-201eff3bc0de" />
 
 **Result:**
-Thus the study and verification of the truth table of logic gates in quartus II using Verilog programming.
+Thus the study and verification of the truth table of logic gates in quartus II using Verilog programming is executed successfully.
 
 
